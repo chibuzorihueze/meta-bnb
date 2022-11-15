@@ -19,6 +19,7 @@ ul{
 
 li{
   margin-left: 30px;
+  color: #434343;
 }
 
 .nav-button button{
@@ -133,7 +134,7 @@ span{
 .box1, .box2, .box3, .box4{
   width: 234px;
   height: 176px;
-  border: 1px solid gray;
+  border: none;
   border-radius: 15px;
 }
 
@@ -169,6 +170,14 @@ span{
 .grid-image{
   width: 200;
   height: 265px;
+  text-align: center;
+  margin-top: 14px;
+  margin-bottom: 12px;
+}
+
+.grid-image-footer{
+  margin-left: 14px;
+  margin-right: 14px;
 }
 
 .desert-king{
@@ -178,7 +187,53 @@ span{
 
 .desert-king p{
   font-size: 14px;
+  color: #434343;
+  margin-bottom: 6px;
 }
 
 
 /*third page.jsx*/
+
+.thirdpage-container{
+  background: #A02279;
+  padding-bottom: 200px;
+}
+
+.thirdpage-header{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+.thirdpage-left h1{
+  margin-top: 100px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+  
+.thirdpage-left p{
+  font-size: 18px;
+  line-height: 36px;
+  color: #fff;
+  margin-bottom: 80px;
+}
+
+.thirdpage-left button{
+  height: 48px;
+  width: 156px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #A02279;
+  background: #fff;
+  border: none;
+  border-radius: 8px;
+}
+
+.thirdpage-right div{
+  border: 1px solid gray;
+  width: 100px;
+  height: 120px;
+}

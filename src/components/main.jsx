@@ -25,12 +25,20 @@ function Main(){
             
             <div className="right-section">
                 <div className="wrap-1">
-                    <div className="box1">box 1</div>
-                    <div className="box2">box 2</div>
+                    <div className="box1">
+                        <img src={require ("../image/image 4.png")} alt="metaverse"/>
+                    </div>
+                    <div className="box2">
+                        <img src={require ("../image/image 6.png")} alt="metaverse"/>
+                    </div>
                 </div>
                 <div className="wrap-2">
-                    <div className="box3">box 3</div>
-                    <div className="box4">box 4</div>
+                    <div className="box3">
+                    <img src={require ("../image/image 3.png")} alt="metaverse"/>
+                    </div>
+                    <div className="box4">
+                    <img src={require ("../image/image 5.png")} alt="metaverse"/>
+                    </div>
                 </div>
             </div>
         </div>    

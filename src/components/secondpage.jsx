@@ -11,7 +11,9 @@ function Secondpage(){
 
             <div className="grid-container">
                 <div className="grid-section">
-                    <div className="grid-image"> image1</div>
+                    <div className="grid-image">
+                        <img src={require ("../image/Frame 151.png")} alt="metaverse"/>
+                    </div>
                     <div className="grid-image-footer">
                         <div className="desert-king">
                             <p>Desert king</p>
@@ -28,7 +30,9 @@ function Secondpage(){
                 {/*gird second colume */}
 
                 <div className="grid-section">
-                    <div className="grid-image"> image2</div>
+                    <div className="grid-image">
+                        <img src={require ("../image/Frame 151-1.png")} alt="metaverse"/>
+                    </div>
                     <div className="grid-image-footer">
                         <div className="desert-king">
                             <p>Desert king</p>
@@ -45,7 +49,9 @@ function Secondpage(){
                     {/*gird third colume */}
 
                 <div className="grid-section">
-                    <div className="grid-image"> image2</div>
+                    <div className="grid-image"> 
+                        <img src={require ("../image/Frame 151-2.png")} alt="metaverse"/>
+                    </div>
                     <div className="grid-image-footer">
                         <div className="desert-king">
                             <p>Desert king</p>
@@ -62,7 +68,9 @@ function Secondpage(){
                     {/*gird fourth colume */}
 
                 <div className="grid-section">
-                    <div className="grid-image"> image2</div>
+                    <div className="grid-image"> 
+                        <img src={require ("../image/Frame 151-3.png")} alt="metaverse"/>
+                    </div>
                     <div className="grid-image-footer">
                         <div className="desert-king">
                             <p>Desert king</p>
@@ -79,7 +87,9 @@ function Secondpage(){
                     {/*gird fifth colume */}
 
                 <div className="grid-section">
-                    <div className="grid-image"> image2</div>
+                    <div className="grid-image"> 
+                        <img src={require ("../image/Frame 151-4.png")} alt="metaverse"/>
+                    </div>
                     <div className="grid-image-footer">
                         <div className="desert-king">
                             <p>Desert king</p>
@@ -96,7 +106,9 @@ function Secondpage(){
                     {/*gird sixth colume */}
 
                 <div className="grid-section">
-                    <div className="grid-image"> image2</div>
+                    <div className="grid-image"> 
+                        <img src={require ("../image/Frame 151-5.png")} alt="metaverse"/>
+                    </div>
                     <div className="grid-image-footer">
                         <div className="desert-king">
                             <p>Desert king</p>
@@ -113,7 +125,9 @@ function Secondpage(){
                     {/*gird seventh colume */}
 
                 <div className="grid-section">
-                    <div className="grid-image"> image2</div>
+                    <div className="grid-image"> 
+                        <img src={require ("../image/Frame 151-6.png")} alt="metaverse"/>
+                    </div>
                     <div className="grid-image-footer">
                         <div className="desert-king">
                             <p>Desert king</p>
@@ -130,7 +144,9 @@ function Secondpage(){
                     {/*gird eighth colume */}
 
                 <div className="grid-section">
-                    <div className="grid-image"> image2</div>
+                    <div className="grid-image"> 
+                        <img src={require ("../image/Frame 151-7.png")} alt="metaverse"/>
+                    </div>
                     <div className="grid-image-footer">
                         <div className="desert-king">
                             <p>Desert king</p>
