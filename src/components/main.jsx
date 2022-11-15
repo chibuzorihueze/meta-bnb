@@ -6,19 +6,19 @@ function Main(){
 
             <div className="right-section">
                 <div className="first-text">
-                    <h1>Rent a Place away from</h1>
+                    <h1 className="top-text">Rent a <span>Place</span> away from</h1>
                 </div>
                 <div className="second-text">
-                    <h1>Home in the Metaverse</h1>
+                    <h1 className="top-text"> <span>Home</span> in the <span>Metaverse</span></h1>
                 </div>
-                <div>
+                <div className="text-container">
                     <p> We provide you access to luxury and afordable houses <br />
                         in the metaverse, get a chance to turn your <br />
-                        your imagination to reality at your comfort zone
+                        imagination to reality at your comfort zone
                     </p>
                 </div>
 
-                <div>
+                <div className="search-button" >
                     <input type="text" placeholder="search for location"/> <button>search</button>
                 </div>
             </div>
