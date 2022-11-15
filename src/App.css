@@ -45,7 +45,7 @@ li{
 /* left session*/
 
 }
-.left-section{
+.right-section{
   display: flex;
   
 }
@@ -112,10 +112,34 @@ span{
   color: #B8B8B8;
 }
 
+/*main footer section*/
+
+.mainfooter-container{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 150px;
+  background: #A02279;
+  padding: 10px 100px 10px 100px;
+  
+}
+
+.mainfooter-container h2{
+  color: #fff;
+}
+
+
 /*right section of main*/
 .box1, .box2, .box3, .box4{
-  height: 100px;
-  width: 80px;
+  width: 234px;
+  height: 176px;
   border: 1px solid gray;
+  border-radius: 15px;
+}
+
+.wrap-1{
+  margin-top: 86px;
+}
+.wrap-2{
+  margin-left: 6px;
 }
 

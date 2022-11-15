@@ -4,7 +4,7 @@ function Main(){
     return(
         <div className="main">
 
-            <div className="right-section">
+            <div className="left-section">
                 <div className="first-text">
                     <h1 className="top-text">Rent a <span>Place</span> away from</h1>
                 </div>
@@ -23,7 +23,7 @@ function Main(){
                 </div>
             </div>
             
-            <div className="left-section">
+            <div className="right-section">
                 <div className="wrap-1">
                     <div className="box1">box 1</div>
                     <div className="box2">box 2</div>
