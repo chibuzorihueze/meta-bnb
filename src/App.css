@@ -120,6 +120,7 @@ span{
   margin-top: 150px;
   background: #A02279;
   padding: 10px 100px 10px 100px;
+  margin-bottom: 46px;
   
 }
 
@@ -143,3 +144,23 @@ span{
   margin-left: 6px;
 }
 
+/* seconde page sytling*/
+
+.grid-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  row-gap: 10px;
+}
+
+.grid-container div{
+  border: 1px solid gray;
+  width: 292px;
+  height: 372px;
+}
+
+.secondpage-header{
+  margin-bottom: 40px;
+}
+.secondpage-header h1{
+  text-align: center;
+}

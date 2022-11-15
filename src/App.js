@@ -2,6 +2,7 @@ import './App.css';
 import Nav from './components/nav';
 import Main from './components/main';
 import Mainfooter from './components/mainFooter';
+import Secondpage from './components/secondpage';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Nav />
       <Main />
       <Mainfooter />
+      <Secondpage />
     </div>
     );
 }
