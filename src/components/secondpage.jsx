@@ -21,7 +21,7 @@ function Secondpage(){
                             <p>Desert king</p>
                             <p>1MBT per night</p>
                         </div>
-                    
+                        <span> &#9733; &#9733; &#9733; &#9733; &#9733;</span>
                     </div>
                 </div>
 
@@ -38,6 +38,7 @@ function Secondpage(){
                             <p>Desert king</p>
                             <p>1MBT per night</p>
                         </div>
+                        <span> &#9733; &#9733; &#9733; &#9733; &#9733;</span>
                     </div>
                 </div>
 
@@ -54,6 +55,7 @@ function Secondpage(){
                             <p>Desert king</p>
                             <p>1MBT per night</p>
                         </div>
+                        <span> &#9733; &#9733; &#9733; &#9733; &#9733;</span>
                     </div>
                 </div>
 
@@ -70,8 +72,11 @@ function Secondpage(){
                             <p>Desert king</p>
                             <p>1MBT per night</p>
                         </div>
+                        <span> &#9733; &#9733; &#9733; &#9733; &#9733;</span>
                     </div>
                 </div>
+
+                    {/*gird fifth colume */}
 
                 <div className="grid-section">
                     <div className="grid-image"> image2</div>
@@ -84,8 +89,11 @@ function Secondpage(){
                             <p>Desert king</p>
                             <p>1MBT per night</p>
                         </div>
+                        <span> &#9733; &#9733; &#9733; &#9733; &#9733;</span>
                     </div>
                 </div>
+
+                    {/*gird sixth colume */}
 
                 <div className="grid-section">
                     <div className="grid-image"> image2</div>
@@ -98,8 +106,11 @@ function Secondpage(){
                             <p>Desert king</p>
                             <p>1MBT per night</p>
                         </div>
+                        <span> &#9733; &#9733; &#9733; &#9733; &#9733;</span>
                     </div>
                 </div>
+
+                    {/*gird seventh colume */}
 
                 <div className="grid-section">
                     <div className="grid-image"> image2</div>
@@ -112,8 +123,11 @@ function Secondpage(){
                             <p>Desert king</p>
                             <p>1MBT per night</p>
                         </div>
+                        <span> &#9733; &#9733; &#9733; &#9733; &#9733;</span>
                     </div>
                 </div>
+
+                    {/*gird eighth colume */}
 
                 <div className="grid-section">
                     <div className="grid-image"> image2</div>
@@ -126,9 +140,10 @@ function Secondpage(){
                             <p>Desert king</p>
                             <p>1MBT per night</p>
                         </div>
+                        <span> &#9733; &#9733; &#9733; &#9733; &#9733;</span>
                     </div>
                 </div>
-                
+
             </div>
         </div>
     )
