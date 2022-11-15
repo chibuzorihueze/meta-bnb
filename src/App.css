@@ -149,13 +149,14 @@ span{
 .grid-container{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  row-gap: 10px;
+  row-gap: 30px;
 }
 
-.grid-container div{
+.grid-container .grid-section{
   border: 1px solid gray;
   width: 292px;
   height: 372px;
+  border-radius: 15px;
 }
 
 .secondpage-header{
@@ -163,4 +164,18 @@ span{
 }
 .secondpage-header h1{
   text-align: center;
+}
+
+.grid-image{
+  width: 200;
+  height: 265px;
+}
+
+.desert-king{
+  display: flex;
+  justify-content: space-between;
+}
+
+.desert-king p{
+  font-size: 14px;
 }

@@ -6,15 +6,129 @@ function Secondpage(){
             <div className="secondpage-header">
                 <h1>Inspiration for your next adventure</h1>
             </div>
+
+            {/*first gird colume */}
+
             <div className="grid-container">
-                <div>image1</div>
-                <div>image2</div>
-                <div>image3</div>
-                <div>image4</div>
-                <div>image5</div>
-                <div>image6</div>
-                <div>image7</div>
-                <div>image8</div>
+                <div className="grid-section">
+                    <div className="grid-image"> image1</div>
+                    <div className="grid-image-footer">
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                    
+                    </div>
+                </div>
+
+                {/*gird second colume */}
+
+                <div className="grid-section">
+                    <div className="grid-image"> image2</div>
+                    <div className="grid-image-footer">
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                    </div>
+                </div>
+
+                    {/*gird third colume */}
+
+                <div className="grid-section">
+                    <div className="grid-image"> image2</div>
+                    <div className="grid-image-footer">
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                    </div>
+                </div>
+
+                    {/*gird fourth colume */}
+
+                <div className="grid-section">
+                    <div className="grid-image"> image2</div>
+                    <div className="grid-image-footer">
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="grid-section">
+                    <div className="grid-image"> image2</div>
+                    <div className="grid-image-footer">
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="grid-section">
+                    <div className="grid-image"> image2</div>
+                    <div className="grid-image-footer">
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="grid-section">
+                    <div className="grid-image"> image2</div>
+                    <div className="grid-image-footer">
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="grid-section">
+                    <div className="grid-image"> image2</div>
+                    <div className="grid-image-footer">
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                        <div className="desert-king">
+                            <p>Desert king</p>
+                            <p>1MBT per night</p>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
         </div>
     )
