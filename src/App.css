@@ -232,8 +232,22 @@ span{
   border-radius: 8px;
 }
 
+.thirdpage-right{
+  display: flex;
+  
+}
+
 .thirdpage-right div{
   border: 1px solid gray;
-  width: 100px;
-  height: 120px;
+  width: 378px;
+  height: 254px;
+  margin-top: 120px;
+}
+
+.box-rotate1{
+  transform: rotate(-40deg)
+}
+
+.box-rotate2{
+  transform: rotate(-30deg);
 }

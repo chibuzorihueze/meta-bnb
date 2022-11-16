@@ -16,8 +16,8 @@ function Thirdsection(){
                 </div>
             
                 <div className="thirdpage-right">
-                    <div>img</div>
-                    <div>img</div>
+                    <div className="box-rotate1">img</div>
+                    <div className="box-rotate2">img</div>
                     <div>img</div>
                 </div>
             </div>
