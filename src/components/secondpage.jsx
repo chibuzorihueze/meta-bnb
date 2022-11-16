@@ -1,5 +1,13 @@
 import React from "react";
 import metaverseImg from "../image/F1.png";
+import adventureImg from "../image/F2.png";
+import adventureImg1 from "../image/F3.png";
+import adventureImg2 from "../image/F4.png";
+import adventureImg3 from "../image/F5.png";
+import adventureImg4 from "../image/F6.png";
+import adventureImg5 from "../image/F7.png";
+import adventureImg6 from "../image/F8.png";
+
 import Adventure from "./elements/adventure";
 
 const adventures = [
@@ -18,7 +26,7 @@ const adventures = [
     price: "1MBT per night",
     distance: "2345km away",
     duration: "available for 2weeks away",
-    img: metaverseImg,
+    img: adventureImg1,
   },
 
   {
@@ -27,7 +35,7 @@ const adventures = [
     price: "1MBT per night",
     distance: "2345km away",
     duration: "available for 2weeks away",
-    img: metaverseImg,
+    img: adventureImg2,
   },
   {
     id: 3,
@@ -35,7 +43,7 @@ const adventures = [
     price: "1MBT per night",
     distance: "2345km away",
     duration: "available for 2weeks away",
-    img: metaverseImg,
+    img: adventureImg,
   },
 
   {
@@ -44,7 +52,7 @@ const adventures = [
     price: "1MBT per night",
     distance: "2345km away",
     duration: "available for 2weeks away",
-    img: metaverseImg,
+    img: adventureImg3,
   },
 
   {
@@ -53,7 +61,7 @@ const adventures = [
     price: "1MBT per night",
     distance: "2345km away",
     duration: "available for 2weeks away",
-    img: metaverseImg,
+    img: adventureImg4,
   },
 
   {
@@ -62,7 +70,7 @@ const adventures = [
     price: "1MBT per night",
     distance: "2345km away",
     duration: "available for 2weeks away",
-    img: metaverseImg,
+    img: adventureImg5,
   },
 
   {
@@ -71,7 +79,7 @@ const adventures = [
     price: "1MBT per night",
     distance: "2345km away",
     duration: "available for 2weeks away",
-    img: metaverseImg,
+    img: adventureImg6,
   },
 ];
 

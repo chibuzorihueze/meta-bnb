@@ -11,7 +11,7 @@ function Footer() {
         <img src={metaverseImg} alt="logo" />
           <div className="icon">
             <img src={facebookImg} alt="facebook"/>
-            <img src={instaImg} alt="instagram"/>
+            <img className="inst" src={instaImg} alt="instagram"/>
             <img src={tweetImg} alt="twitter"/>
           </div>
           <div className="copyright">©2022 Metabnb</div>
