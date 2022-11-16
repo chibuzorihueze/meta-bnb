@@ -9,7 +9,7 @@ const Adventure = ({ img, name, price, distance, duration }) => {
       <div className="grid-image-footer">
         <div className="desert-king">
           <p>{name}</p>
-          <p>{price}</p>
+          <p style={{fontWeight:"700"}}>{price}</p>
         </div>
         <div className="desert-king">
           <p>{distance}</p>

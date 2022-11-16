@@ -176,8 +176,8 @@ span{
 }
 
 .grid-image-footer{
-  margin-left: 14px;
-  margin-right: 14px;
+  margin-left: 8px;
+  margin-right: 8px;
 }
 
 .desert-king{
@@ -186,7 +186,7 @@ span{
 }
 
 .desert-king p{
-  font-size: 14px;
+  font-size: 12px;
   color: #434343;
   margin-bottom: 6px;
 }

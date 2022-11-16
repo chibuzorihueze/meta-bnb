@@ -8,7 +8,7 @@ const adventures = [
     name: "desert king",
     price: "1MBT per night",
     distance: "2345km away",
-    duration: "available for 2weeks away",
+    duration: "available for 2weeks stay",
     img: metaverseImg,
   },
 
