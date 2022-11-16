@@ -1,12 +1,20 @@
 import React from "react";
 import metaverseImg from "../image/logo2.png";
+import facebookImg from "../image/facebook.png"
+import instaImg from "../image/instagram.png"
+import tweetImg from "../image/twiter.png"
 
 function Footer() {
   return (
     <div className="footer-container">
       <div className="footer-line1">
         <img src={metaverseImg} alt="logo" />
-        
+          <div className="icon">
+            <img src={facebookImg} alt="facebook"/>
+            <img src={instaImg} alt="instagram"/>
+            <img src={tweetImg} alt="twitter"/>
+          </div>
+          <div className="copyright">©2022 Metabnb</div>
       </div>
       <div className="footer-line2">
         <h3>Community</h3>
