@@ -6,6 +6,7 @@ function Footer() {
     <div className="footer-container">
       <div className="footer-line1">
         <img src={metaverseImg} alt="logo" />
+        
       </div>
       <div className="footer-line2">
         <h3>Community</h3>

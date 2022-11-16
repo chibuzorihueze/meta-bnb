@@ -406,3 +406,14 @@ span {
   color: #434343;
   margin-right: 30px;
 }
+.sub-nav-list{
+  display: flex;
+  margin-left: 30px;
+}
+
+.location{
+  margin-right: 30px;
+}
+
+
+

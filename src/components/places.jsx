@@ -9,6 +9,7 @@ import placetoImg5 from "../image/F5.png";
 import placetoImg6 from "../image/F6.png";
 import placetoImg7 from "../image/F7.png";
 import placetoImg8 from "../image/F8.png";
+import locaImage from "../image/location.png";
 import Footer from "./footer";
 
 const placetostay = [
@@ -89,14 +90,19 @@ const Placetostay = () => {
     <div>
       <Nav />
       <div className="sub-nav">
-        <li>Resturant</li>
-        <li>Cottage</li>
-        <li>Castle</li>
-        <li>Fantast city</li>
-        <li>beach</li>
-        <li>carbins</li>
-        <li>off-grid</li>
-        <li>farm</li>
+        <div className="sub-nav-list">
+          <li>Resturant</li>
+          <li>Cottage</li>
+          <li>Castle</li>
+          <li>Fantast city</li>
+          <li>beach</li>
+          <li>carbins</li>
+          <li>off-grid</li>
+          <li>farm</li>
+        </div>
+        <div className="location">
+          <img src={locaImage} alt="" srcset="" />
+        </div>
       </div>
       <div className="grid-container">
         {placetostay.map(({ name, id, img, duration, price, distance }) => (
@@ -110,7 +116,7 @@ const Placetostay = () => {
           />
         ))}
       </div>
-      <Footer/>
+      <Footer />
     </div>
   );
 };
