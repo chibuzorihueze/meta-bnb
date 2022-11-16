@@ -1,4 +1,5 @@
 import React from "react";
+import metaverseImg from "../image/Frame.png";
 
 function Thirdsection(){
     return(
@@ -16,9 +17,7 @@ function Thirdsection(){
                 </div>
             
                 <div className="thirdpage-right">
-                    <div className="box-rotate1">img</div>
-                    <div className="box-rotate2">img</div>
-                    <div>img</div>
+                    <img src={metaverseImg} alt="frame"/>
                 </div>
             </div>
         </div>
