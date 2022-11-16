@@ -302,9 +302,14 @@ span {
   display: flex;
   flex-direction: column;
   width: 50%;
-  margin: auto;
+  margin: 0 auto;
   border-radius: 15px;
   padding: 20px;
+  z-index: 999;
+  position: fixed;
+  top: 5%;
+  left: 25%;
+  background-color: #fff;
 }
 
 .modal-heading{
