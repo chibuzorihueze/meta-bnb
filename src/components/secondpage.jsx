@@ -28,8 +28,6 @@ function Secondpage() {
         <h1>Inspiration for your next adventure</h1>
       </div>
 
-      {/*first gird colume */}
-
       <div className="grid-container">
         {adventures.map((adventure) => (
           <div className="grid-section" key={adventure.id}>
