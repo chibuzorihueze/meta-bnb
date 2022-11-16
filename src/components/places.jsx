@@ -83,6 +83,76 @@ const placetostay = [
     duration: "available for 2weeks away",
     img: placetoImg8,
   },
+  {
+    id: 8,
+    name: "desert king",
+    price: "1MBT per night",
+    distance: "2345km away",
+    duration: "available for 2weeks stay",
+    img: placetoImg1,
+  },
+
+  {
+    id: 9,
+    name: "desert king",
+    price: "1MBT per night",
+    distance: "2345km away",
+    duration: "available for 2weeks away",
+    img: placetoImg2,
+  },
+
+  {
+    id: 10,
+    name: "desert king",
+    price: "1MBT per night",
+    distance: "2345km away",
+    duration: "available for 2weeks away",
+    img: placetoImg3,
+  },
+  {
+    id: 11,
+    name: "desert king",
+    price: "1MBT per night",
+    distance: "2345km away",
+    duration: "available for 2weeks away",
+    img: placetoImg4,
+  },
+
+  {
+    id: 12,
+    name: "desert king",
+    price: "1MBT per night",
+    distance: "2345km away",
+    duration: "available for 2weeks away",
+    img: placetoImg5,
+  },
+
+  {
+    id: 13,
+    name: "desert king",
+    price: "1MBT per night",
+    distance: "2345km away",
+    duration: "available for 2weeks away",
+    img: placetoImg6,
+  },
+
+  {
+    id: 14,
+    name: "desert king",
+    price: "1MBT per night",
+    distance: "2345km away",
+    duration: "available for 2weeks away",
+    img: placetoImg7,
+  },
+
+  {
+    id: 15,
+    name: "desert king",
+    price: "1MBT per night",
+    distance: "2345km away",
+    duration: "available for 2weeks away",
+    img: placetoImg8,
+  },
 ];
 
 const Placetostay = () => {
