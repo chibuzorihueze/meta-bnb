@@ -1,4 +1,7 @@
 import React from "react";
+import maxImg from "../image/max.png";
+import walletImg from "../image/wallet.png";
+import angleImg from "../image/angle.png";
 
 const Modal = () => {
   return (
@@ -11,10 +14,27 @@ const Modal = () => {
           <p>Choose your prefeared Wallet:</p>
         </div>
         <div className="metamask">
-          <h3>Metamask</h3>
+          <div className="metamask-img">
+            <img src={maxImg} alt="max" />
+          </div>
+          <div className="metamask-text">
+            <h3>Metamask</h3>
+          </div>
+          <div className="angle">
+            <img src={angleImg} alt="angle" />
+          </div>
         </div>
+
         <div className="wallet">
-          <h3>WalletConnect</h3>
+          <div className="wallet-img">
+            <img src={walletImg} alt="max" />
+          </div>
+          <div className="wallet-text">
+            <h3> WalletConnect </h3>
+          </div>
+          <div className="angle2">
+            <img src={angleImg} alt="angle" />
+          </div>
         </div>
       </div>
     </div>

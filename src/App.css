@@ -336,7 +336,13 @@ span {
   padding: 20px;
   width: 80%;
   margin: auto;
+  display: flex;
   
+}
+
+.metamask-text{
+  margin-top: 10px;
+  margin-left: 10px;
 }
 
 .wallet{
@@ -348,4 +354,23 @@ span {
   margin: auto;
   margin-top: 10px;
   margin-bottom: 10px;
+  display: flex;
+  
+}
+ 
+.wallet-text{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.angle{
+  color:#959DA6;
+  margin-top: 14px;
+  margin-left: 220px;
+}
+
+.angle2{
+  color:#959DA6;
+  margin-top: 14px;
+  margin-left: 184px;
 }
