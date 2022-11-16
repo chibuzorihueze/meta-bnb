@@ -1,10 +1,11 @@
 import React from "react";
+import metaverseImg from "../image/logo.png";
 
 function Nav(){
     return(
         <div className="nav-container">
             <div className="logo-container">
-                <div className="logo-text">Metabnb</div>
+                <div className="logo-text"><img src={metaverseImg} alt="logo"/></div>
             </div>
             <div className="nav-list">
                 <ul>
