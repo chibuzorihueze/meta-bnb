@@ -5,6 +5,7 @@ import Mainfooter from "./components/mainFooter";
 import Secondpage from "./components/secondpage";
 import Thirdsection from "./components/thirdpage";
 import Footer from "./components/footer";
+import Modal from "./components/modal";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Secondpage />
       <Thirdsection />
       <Footer />
+      <Modal />
     </div>
   );
 }

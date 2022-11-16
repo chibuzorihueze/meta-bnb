@@ -47,12 +47,6 @@ function Main() {
           </div>
         </div>
       </div>
-      <div className="modal-container">
-        <div className="modal-heading"><h3>Connet Wallet</h3></div>
-        <div className="modad-subheading"><p>Choose your prefeared Wallet</p></div>
-        <div><h3>Metamask</h3></div>
-        <div><h3>WalletConnect</h3></div>
-      </div>
     </div>
   );
 }
