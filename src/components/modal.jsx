@@ -9,6 +9,7 @@ const Modal = () => {
       <div className="modal-container">
         <div className="modal-heading">
           <h3>Connet Wallet</h3>
+          <p>X</p>
         </div>
         <div className="modal-subheading">
           <p>Choose your prefeared Wallet:</p>

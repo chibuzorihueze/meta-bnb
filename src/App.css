@@ -252,6 +252,7 @@ span {
   padding-bottom: 100px;
   padding-left: 100px;
   padding-right: 100px;
+  margin-bottom: 30px;
 }
 
 .footer-line2 p {
@@ -309,6 +310,7 @@ span {
 .modal-heading{
   border-bottom: 1px solid #CFD8DC;
   padding: 20px;
+  display: flex;
 }
 
 .modal-heading h3{
@@ -316,6 +318,13 @@ span {
   font-weight: 700;
   font-size: 24px;
   line-height: 30px;
+}
+
+.modal-heading p{
+  margin-top: 6px;
+  margin-left: 280px;
+  font-size: 18px;
+  font-weight: 500;
 }
 
 .modal-subheading{
