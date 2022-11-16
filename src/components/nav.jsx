@@ -13,7 +13,7 @@ function Nav({ setShowModal }) {
       <div className="nav-list">
         <ul>
           <li>Home</li>
-          <li>
+          <li className="place-link">
             <Link to="/places">Place to stay</Link>
           </li>
           <li>NFTs</li>

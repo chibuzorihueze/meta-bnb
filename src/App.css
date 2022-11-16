@@ -22,6 +22,10 @@ li {
   color: #434343;
 }
 
+Link{
+  text-decoration: none;
+}
+
 .nav-button button {
   background: #a02279;
   color: #fff;
@@ -387,4 +391,18 @@ span {
   color:#959DA6;
   margin-top: 14px;
   margin-left: 184px;
+}
+
+.sub-nav{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.sub-nav li{
+  list-style-type: none;
+  margin-left: 30px;
+  color: #434343;
+  margin-right: 30px;
 }
