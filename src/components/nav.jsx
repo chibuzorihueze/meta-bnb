@@ -14,7 +14,7 @@ function Nav({ setShowModal }) {
         <ul>
           <li>Home</li>
           <li className="place-link">
-            <Link to="/places">Place to stay</Link>
+            <Link to="/places"style={{ textDecoration: 'none' }}>Place to stay</Link>
           </li>
           <li>NFTs</li>
           <li>Community</li>
